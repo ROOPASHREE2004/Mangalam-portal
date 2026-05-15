@@ -24,7 +24,7 @@ This project replicates a real-world industrial website with clean UI, structure
 
 - **HTML5**
 - **CSS3**
-- **JavaScript **
+- **JavaScript**
 
 
 
