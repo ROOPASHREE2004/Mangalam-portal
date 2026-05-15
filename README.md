@@ -6,7 +6,7 @@ This project replicates a real-world industrial website with clean UI, structure
 ---
 
 ## 🚀 Live Demo
-👉 https://gushwork-assignment-web.netlify.app
+👉 https://gushwork-web-assignment.netlify.app
 
 ---
 
